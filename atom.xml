@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>吕佳丽的博客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://lvjiali918.github.io/"/>
+  <updated>2020-03-14T13:52:23.753Z</updated>
+  <id>http://lvjiali918.github.io/</id>
+  
+  <author>
+    <name>lvjiali</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo-video</title>
+    <link href="http://lvjiali918.github.io/2020/03/14/hexo-video/"/>
+    <id>http://lvjiali918.github.io/2020/03/14/hexo-video/</id>
+    <published>2020-03-14T06:39:08.000Z</published>
+    <updated>2020-03-14T13:52:23.753Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="文章段落一"><a href="#文章段落一" class="headerlink" title="文章段落一"></a>文章段落一</h2><p>hsdjuhfsdhnfcsdjhdsfsdfs电风扇等方式</p><h2 id="文章段落二"><a href="#文章段落二" class="headerlink" title="文章段落二"></a>文章段落二</h2><p>发的女的家父女</p><h3 id="小段落"><a href="#小段落" class="headerlink" title="小段落"></a>小段落</h3><p>找工作啊</p><h3 id="小段落二"><a href="#小段落二" class="headerlink" title="小段落二"></a>小段落二</h3><blockquote><p>nxsjnxjasnxajsdada中国加油</p><p>1</p><p>2</p><p>2</p></blockquote><ul><li><p>dasdasdads</p></li><li><p>dasdasdasx</p></li><li><p>dasdasdsa</p></li></ul><table><thead><tr><th align="left">姓名</th><th align="center">ID</th><th align="right">地址</th></tr></thead><tbody><tr><td align="left">A</td><td align="center">B</td><td align="right">C</td></tr><tr><td align="left">d</td><td align="center">e</td><td align="right">f</td></tr></tbody></table><p>![这是] (<a href="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=121743659,2942646494&amp;fm=26&amp;gp=0.jpg" target="_blank" rel="noopener">https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=121743659,2942646494&amp;fm=26&amp;gp=0.jpg</a>)</p><p><img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3618306597,2277626119&fm=26&gp=0.jpg" alt=""></p><p><img src="../images/6.jpg" alt=""></p><img src="../images/6.jpg" width=200><p>dcsdcdca <strong>字体加粗</strong> cdcsdcsd<a href="https://hexo.io/plugins/" target="_blank" rel="noopener">超链接</a></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;文章段落一&quot;&gt;&lt;a href=&quot;#文章段落一&quot; class=&quot;headerlink&quot; title=&quot;文章段落一&quot;&gt;&lt;/a&gt;文章段落一&lt;/h2&gt;&lt;p&gt;hsdjuhfsdhnfcsdjhdsfsdfs电风扇等方式&lt;/p&gt;
+&lt;h2 id=&quot;文章段落二&quot;&gt;&lt;a href=
+      
+    
+    </summary>
+    
+    
+      <category term="视频" scheme="http://lvjiali918.github.io/categories/%E8%A7%86%E9%A2%91/"/>
+    
+    
+      <category term="Video" scheme="http://lvjiali918.github.io/tags/Video/"/>
+    
+      <category term="视频" scheme="http://lvjiali918.github.io/tags/%E8%A7%86%E9%A2%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的博客搭建成功了！</title>
+    <link href="http://lvjiali918.github.io/2020/03/13/hello-world/"/>
+    <id>http://lvjiali918.github.io/2020/03/13/hello-world/</id>
+    <published>2020-03-13T12:24:39.282Z</published>
+    <updated>2020-03-17T13:46:47.427Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+      <category term="java" scheme="http://lvjiali918.github.io/categories/java/"/>
+    
+    
+      <category term="helloworld" scheme="http://lvjiali918.github.io/tags/helloworld/"/>
+    
+      <category term="博客搭建" scheme="http://lvjiali918.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+      <category term="tags创建" scheme="http://lvjiali918.github.io/tags/tags%E5%88%9B%E5%BB%BA/"/>
+    
+  </entry>
+  
+</feed>
