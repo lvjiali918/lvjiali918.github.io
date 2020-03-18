@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lvjiali918.github.io/"/>
-  <updated>2020-03-14T13:52:23.753Z</updated>
+  <updated>2020-03-18T08:23:54.065Z</updated>
   <id>http://lvjiali918.github.io/</id>
   
   <author>
@@ -17,31 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hexo-video</title>
+    <title>Markdown语法</title>
     <link href="http://lvjiali918.github.io/2020/03/14/hexo-video/"/>
     <id>http://lvjiali918.github.io/2020/03/14/hexo-video/</id>
     <published>2020-03-14T06:39:08.000Z</published>
-    <updated>2020-03-14T13:52:23.753Z</updated>
+    <updated>2020-03-18T08:23:54.065Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="文章段落一"><a href="#文章段落一" class="headerlink" title="文章段落一"></a>文章段落一</h2><p>hsdjuhfsdhnfcsdjhdsfsdfs电风扇等方式</p><h2 id="文章段落二"><a href="#文章段落二" class="headerlink" title="文章段落二"></a>文章段落二</h2><p>发的女的家父女</p><h3 id="小段落"><a href="#小段落" class="headerlink" title="小段落"></a>小段落</h3><p>找工作啊</p><h3 id="小段落二"><a href="#小段落二" class="headerlink" title="小段落二"></a>小段落二</h3><blockquote><p>nxsjnxjasnxajsdada中国加油</p><p>1</p><p>2</p><p>2</p></blockquote><ul><li><p>dasdasdads</p></li><li><p>dasdasdasx</p></li><li><p>dasdasdsa</p></li></ul><table><thead><tr><th align="left">姓名</th><th align="center">ID</th><th align="right">地址</th></tr></thead><tbody><tr><td align="left">A</td><td align="center">B</td><td align="right">C</td></tr><tr><td align="left">d</td><td align="center">e</td><td align="right">f</td></tr></tbody></table><p>![这是] (<a href="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=121743659,2942646494&amp;fm=26&amp;gp=0.jpg" target="_blank" rel="noopener">https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=121743659,2942646494&amp;fm=26&amp;gp=0.jpg</a>)</p><p><img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3618306597,2277626119&fm=26&gp=0.jpg" alt=""></p><p><img src="../images/6.jpg" alt=""></p><img src="../images/6.jpg" width=200><p>dcsdcdca <strong>字体加粗</strong> cdcsdcsd<a href="https://hexo.io/plugins/" target="_blank" rel="noopener">超链接</a></p><hr>]]></content>
+    <content type="html"><![CDATA[<h2 id="1-Markdown-标题"><a href="#1-Markdown-标题" class="headerlink" title="1.Markdown 标题"></a>1.Markdown 标题</h2><p>Markdown 标题有两种格式。</p><h3 id="1、使用-和-标记一级和二级标题"><a href="#1、使用-和-标记一级和二级标题" class="headerlink" title="1、使用 = 和 - 标记一级和二级标题"></a>1、使用 = 和 - 标记一级和二级标题</h3><p>= 和 - 标记语法格式如下：<br>一级标题<br>====<br>二级标题</p><hr><h3 id="2-使用-号标记"><a href="#2-使用-号标记" class="headerlink" title="2.使用#号标记"></a>2.使用#号标记</h3><p>使用 # 号可表示 1-6 级标题，一级标题对应一个 # 号，二级标题对应两个 # 号，以此类推</p><h2 id="2-Markdown-段落"><a href="#2-Markdown-段落" class="headerlink" title="2.  Markdown 段落"></a>2.  Markdown 段落</h2><p>Markdown 段落没有特殊的格式，直接编写文字就好，段落的换行是使用两个以上空格加上回车。<br>当然也可以在段落后面使用一个空行来表示重新开始一个段落。</p><h2 id="3-字体"><a href="#3-字体" class="headerlink" title="3.字体"></a>3.字体</h2><p>Markdown 可以使用以下几种字体<br><em>斜体文本</em><br><em>斜体文本</em><br><strong>粗体文本</strong><br><strong>粗体文本</strong><br><strong><em>粗斜体文本</em></strong><br><strong><em>粗斜体文本</em></strong></p><h2 id="4-分割线"><a href="#4-分割线" class="headerlink" title="4. 分割线"></a>4. 分割线</h2><p>你可以在一行中用三个以上的星号、减号、底线来建立一个分隔线，行内不能有其他东西。你也可以在星号或是减号中间插入空格。下面每种写法都可以建立分隔线：</p><hr><hr><hr><hr><hr><h2 id="5-删除线"><a href="#5-删除线" class="headerlink" title="5. 删除线"></a>5. 删除线</h2><p>如果段落上的文字要添加删除线，只需要在文字的两端加上两个波浪线 ~~即可，实例如下：</p><h2 id="6-下划线"><a href="#6-下划线" class="headerlink" title="6. 下划线"></a>6. 下划线</h2><p>下划线可以通过 HTML 的 <u> 标签来实现<br><u>带下划线文本</u></p><h2 id="7-脚注"><a href="#7-脚注" class="headerlink" title="7. 脚注"></a>7. 脚注</h2><p>脚注是对文本的补充说明。</p><p>Markdown 脚注的格式如下:</p><p> [^要注明的文本]：学无止境</p><h2 id="8-Markdown-列表"><a href="#8-Markdown-列表" class="headerlink" title="8. Markdown 列表"></a>8. Markdown 列表</h2><h3 id="Markdown-支持有序列表和无序列表。"><a href="#Markdown-支持有序列表和无序列表。" class="headerlink" title="Markdown 支持有序列表和无序列表。"></a>Markdown 支持有序列表和无序列表。</h3><p>无序列表使用星号(*)、加号(+)或是减号(-)作为列表标记<br>有序列表使用数字并加上 . 号来表示</p><h3 id="列表嵌套"><a href="#列表嵌套" class="headerlink" title="列表嵌套"></a>列表嵌套</h3><p>列表嵌套只需在子列表中的选项添加四个空格即可：</p><h2 id="9-Markdown-区块"><a href="#9-Markdown-区块" class="headerlink" title="9. Markdown 区块"></a>9. Markdown 区块</h2><h3 id="Markdown-区块引用是在段落开头使用-gt-符号-，然后后面紧跟一个空格符号："><a href="#Markdown-区块引用是在段落开头使用-gt-符号-，然后后面紧跟一个空格符号：" class="headerlink" title="Markdown 区块引用是在段落开头使用 &gt; 符号 ，然后后面紧跟一个空格符号："></a>Markdown 区块引用是在段落开头使用 &gt; 符号 ，然后后面紧跟一个空格符号：</h3><blockquote><p>这里是区块使用<br>里是区块使用<br>是区块使用</p></blockquote><h3 id="另外区块是可以嵌套的，一个-gt-符号是最外层，两个-gt-符号是第一层嵌套，以此类推："><a href="#另外区块是可以嵌套的，一个-gt-符号是最外层，两个-gt-符号是第一层嵌套，以此类推：" class="headerlink" title="另外区块是可以嵌套的，一个 &gt; 符号是最外层，两个 &gt; 符号是第一层嵌套，以此类推："></a>另外区块是可以嵌套的，一个 &gt; 符号是最外层，两个 &gt; 符号是第一层嵌套，以此类推：</h3><blockquote><p>这里是区块使用</p><blockquote><p>里是区块使用</p><blockquote><p>是区块使用</p></blockquote></blockquote></blockquote><h3 id="区块中使用列表"><a href="#区块中使用列表" class="headerlink" title="区块中使用列表"></a>区块中使用列表</h3><p>区块中使用列表实例如下：</p><blockquote><p>区块中使用列表</p><ol><li>第一项</li><li>第二项</li></ol><ul><li>第一项</li><li>第一项</li><li>第一项</li></ul></blockquote><h3 id="列表中使用区块"><a href="#列表中使用区块" class="headerlink" title="列表中使用区块"></a>列表中使用区块</h3><p>如果要在列表项目内放进区块，那么就需要在 &gt; 前添加四个空格的缩进。</p><p>区块中使用列表实例如下：</p><ul><li>第一项<blockquote><p> 菜鸟教程<br> 学的不仅是技术更是梦想</p></blockquote></li><li>第二项</li></ul><h2 id="10-Markdown-代码"><a href="#10-Markdown-代码" class="headerlink" title="10.Markdown 代码"></a>10.Markdown 代码</h2><p>如果是段落上的一个函数或片段的代码可以用反引号把它包起来（<code>），例如：</code>printf()`函数</p><h3 id="代码区块"><a href="#代码区块" class="headerlink" title="代码区块"></a>代码区块</h3><p>代码区块使用 4 个空格或者一个制表符（Tab 键）。<br>你也可以用 ``` 包裹一段代码，并指定一种语言（也可以不指定）</p><h2 id="11-Markdown-链接"><a href="#11-Markdown-链接" class="headerlink" title="11.Markdown 链接"></a>11.Markdown 链接</h2><p>链接使用方法如下：<br><a href="链接地址">链接名称</a></p><p>或者</p><p>&lt;链接地址&gt;</p><h2 id="12-Markdown-表格"><a href="#12-Markdown-表格" class="headerlink" title="12.Markdown 表格"></a>12.Markdown 表格</h2><p> Markdown 制作表格使用 | 来分隔不同的单元格，使用 - 来分隔表头和其他行。</p><p>语法格式如下：<br>|  表头   | 表头  |<br>|  —-  | —-  |<br>| 单元格  | 单元格 |<br>| 单元格  | 单元格 |<br>对齐方式</p><p>我们可以设置表格的对齐方式：</p><pre><code>-: 设置内容和标题栏居右对齐。:- 设置内容和标题栏居左对齐。:-: 设置内容和标题栏居中对齐。</code></pre><p>实例如下:<br>| 左对齐 | 右对齐 | 居中对齐 |<br>| :—–| —-: | :—-: |<br>| 单元格 | 单元格 | 单元格 |<br>| 单元格 | 单元格 | 单元格 |</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;文章段落一&quot;&gt;&lt;a href=&quot;#文章段落一&quot; class=&quot;headerlink&quot; title=&quot;文章段落一&quot;&gt;&lt;/a&gt;文章段落一&lt;/h2&gt;&lt;p&gt;hsdjuhfsdhnfcsdjhdsfsdfs电风扇等方式&lt;/p&gt;
-&lt;h2 id=&quot;文章段落二&quot;&gt;&lt;a href=
+        &lt;h2 id=&quot;1-Markdown-标题&quot;&gt;&lt;a href=&quot;#1-Markdown-标题&quot; class=&quot;headerlink&quot; title=&quot;1.Markdown 标题&quot;&gt;&lt;/a&gt;1.Markdown 标题&lt;/h2&gt;&lt;p&gt;Markdown 标题有两种格式。&lt;/p&gt;
+&lt;h3 
       
     
     </summary>
     
     
-      <category term="视频" scheme="http://lvjiali918.github.io/categories/%E8%A7%86%E9%A2%91/"/>
+      <category term="Markdown" scheme="http://lvjiali918.github.io/categories/Markdown/"/>
     
     
-      <category term="Video" scheme="http://lvjiali918.github.io/tags/Video/"/>
+      <category term="markdown" scheme="http://lvjiali918.github.io/tags/markdown/"/>
     
-      <category term="视频" scheme="http://lvjiali918.github.io/tags/%E8%A7%86%E9%A2%91/"/>
+      <category term="基本语法" scheme="http://lvjiali918.github.io/tags/%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/"/>
     
   </entry>
   
